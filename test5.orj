@@ -1,0 +1,5 @@
+read a~
+is (a>0)
+[
+	write a~
+]

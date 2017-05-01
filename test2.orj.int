@@ -1,0 +1,9 @@
+get 4
+put a
+get a
+get 5
+plu 
+put a
+get a
+dsp 
+end

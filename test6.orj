@@ -1,0 +1,10 @@
+read a~
+read b~
+is (a>0)
+[
+	is(b>0)
+	[
+	write b~
+	]
+	write a~
+]

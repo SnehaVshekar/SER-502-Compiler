@@ -1,0 +1,15 @@
+inp 
+put i
+get i
+get 1
+grt 
+bne 13
+get i
+dsp 
+get i
+get 1
+sub 
+put i
+get 1
+beq 2
+end

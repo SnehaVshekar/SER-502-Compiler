@@ -1,0 +1,11 @@
+read i~
+a="ProjectCompleted!!"
+loop (i>4)
+{~
+	write i~
+	i=i-1~
+	is(i==4)
+	[
+		write a~
+	]
+}~

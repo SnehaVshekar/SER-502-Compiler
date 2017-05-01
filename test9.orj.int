@@ -1,0 +1,23 @@
+inp 
+put i
+str "ProjectCompleted!!"
+put a
+get i
+get 4
+grt 
+bne 21
+get i
+dsp 
+get i
+get 1
+sub 
+put i
+get i
+get 4
+ass 
+bne 21
+get a
+dsp 
+get 1
+beq 4
+end

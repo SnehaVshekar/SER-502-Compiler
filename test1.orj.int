@@ -1,0 +1,17 @@
+str "sneha"
+put a
+get a
+dsp 
+str "7.4"
+put b
+get b
+dsp 
+get true
+put c
+get c
+dsp 
+inp 
+put d
+get d
+dsp 
+end

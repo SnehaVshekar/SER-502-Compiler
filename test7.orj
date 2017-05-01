@@ -1,0 +1,10 @@
+a=4~
+b=10~
+is (a>b)
+[
+	write a~
+]
+isnot
+[
+	write b~
+]

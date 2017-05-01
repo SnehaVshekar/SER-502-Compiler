@@ -1,0 +1,6 @@
+a=T~
+b=F~
+c=a&b~
+write c~
+d=a|b~
+write d~

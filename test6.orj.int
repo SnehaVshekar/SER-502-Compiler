@@ -1,0 +1,17 @@
+inp 
+put a
+inp 
+put b
+get a
+get 0
+grt 
+bne 17
+get b
+get 0
+grt 
+bne 15
+get b
+dsp 
+get a
+dsp 
+end

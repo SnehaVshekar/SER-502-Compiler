@@ -1,0 +1,15 @@
+get 4
+put a
+get 10
+put b
+get a
+get b
+grt 
+bne 11
+get a
+dsp 
+get 1
+beq 14
+get b
+dsp 
+end

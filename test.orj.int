@@ -1,0 +1,11 @@
+inp 
+put a
+inp 
+put b
+get a
+get b
+plu 
+put c
+get c
+dsp 
+end

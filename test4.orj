@@ -1,0 +1,8 @@
+read a~
+p=1~
+loop(a>1)
+{~
+	p=p*a~
+	a=a-1~
+}~
+write p~
