@@ -3,3 +3,7 @@ Design 					- Abhishek 33% Sneha 34% Deepak 33%
 Grammar					- Deepak 50 % Abhishek 25 % Sneha 25 %
 Interpreter				- Abhishek 50 % Sneha 25 % Deepak 25 % 
 Parsing Technique		- Sneha 50 % Abhishek 25 % Deepak 25 %
+lex file            - Abhishek 50 % Deepak 50%
+Yacc file           - Abhishek 25% Deepak 25% Sneha 50%
+Runtime             - Abhishek 25% Deepak 50% Sneha 25%
+
